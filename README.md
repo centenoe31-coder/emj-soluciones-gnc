@@ -41,3 +41,12 @@ La página menciona NTP 111.019 y NTP 111.042 como referencias indicadas para el
 - CSS con selectores, Flexbox, Grid y diseño responsive mediante media queries.
 - Enlaces a Instagram, Facebook y WhatsApp (deben personalizarse).
 - Lista para inicializar Git, realizar al menos 5 commits y desplegar en Netlify o GitHub Pages.
+## Tecnologías utilizadas
+
+- HTML5: estructura de la página web.
+- CSS3: diseño y estilos visuales.
+- JavaScript: funcionalidades e interactividad.
+
+## Ubicación
+
+Lima, Perú.
