@@ -241,6 +241,37 @@ button, input, select, textarea { font: inherit; }
 
 /* PRUEBA DE DISEÑO EMJ */
 
+/* PRUEBA DE DISEÑO EMJ */
+
 .site-header {
     background-color: var(--navy);
+}
+
+.site-header .brand {
+    color: var(--white);
+}
+
+.site-header .brand-accent {
+    color: var(--cyan);
+}
+
+.site-header .brand small {
+    color: var(--mint);
+}
+
+.site-header .main-nav {
+    color: var(--white);
+}
+
+.site-header .main-nav a:hover {
+    color: var(--cyan);
+}
+
+.site-header .menu-toggle span {
+    background-color: var(--white);
+}
+
+.site-header .main-nav .nav-cta {
+    background-color: var(--cyan);
+    color: var(--navy);
 }
